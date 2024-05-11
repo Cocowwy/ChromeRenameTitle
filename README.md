@@ -12,6 +12,7 @@ Then provide a shortcut key for modifying the title name. Rename the tab page na
 2. 将 RenameTitle/RenameTitle.js 文件拷贝到油猴（新建脚本），并且启用  （Copy RenameTitle/RenameTitle.js into tampermonkey（add new script），and enable the script）
 3. 通过  ```command + option + T``` 重命名  （ Then, use ```command + option + T``` to rename tab）  
 
-# Like This
-![image](https://github.com/Cocowwy/RenameTitle/assets/63331147/65b2c0e9-43d3-47df-8d24-87d93377b8c0)
+
+#🍬
+![image](https://github.com/Cocowwy/RenameTitle/assets/63331147/720315ce-2e35-4878-9bee-3c0bb5362323)
 ![image](https://github.com/Cocowwy/RenameTitle/assets/63331147/c3228e71-143e-4b21-bb97-b29dd55f59a0)
