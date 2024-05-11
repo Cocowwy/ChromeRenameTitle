@@ -13,6 +13,6 @@ Then provide a shortcut key for modifying the title name. Rename the tab page na
 3. 通过  ```command + option + T``` 重命名  （ Then, use ```command + option + T``` to rename tab）  
 
 
-#🍬
+# 🍬
 ![image](https://github.com/Cocowwy/RenameTitle/assets/63331147/720315ce-2e35-4878-9bee-3c0bb5362323)
 ![image](https://github.com/Cocowwy/RenameTitle/assets/63331147/c3228e71-143e-4b21-bb97-b29dd55f59a0)
