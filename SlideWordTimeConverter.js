@@ -79,7 +79,7 @@
                 // x秒后自动关闭弹出框
                 setTimeout(function() {
                     document.body.removeChild(popup);
-                }, 1500);
+                }, 2500);
             }
         }
     });
