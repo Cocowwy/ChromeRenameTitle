@@ -20,7 +20,7 @@ Then provide a shortcut key for modifying the title name. Rename the tab page na
 
   
 
-# 2. SlideWordTimeConverter 滑词时间戳转换 
+# 2. SlideWordTimeConverter 滑词时间转换 
 
 当你在使用谷歌浏览器时，通过鼠标滑词，YYYY-MM-DD HH:mm:ss 时间格式右侧会出现可复制的被转换成13位数时间戳的弹框，逆向同样支持   
 When you are using Google Chrome, by sliding the mouse over a word, a pop-up box that converts the YYYY-MM-DD HH:mm:ss time format into a 13-digit timestamp and allows copying will appear on the right side of the selected text. The reverse conversion is also supported.
