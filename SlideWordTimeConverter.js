@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         SlideWordTimeConverter
-// @github       https://github.com/Cocowwy
+// @namespace    Cocowwy
+// @github       https://github.com/Cocowwy/Tampermonkey-Tools
 // @version      0.1
 // @description  滑词时间转换脚本
 // @author       Cocowwy
+// @license      MIT
 // @match        *://*/*
 // ==/UserScript==
 
