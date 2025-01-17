@@ -1,7 +1,7 @@
 ## How to use? 
 
 1. 安装油猴插件（Install Tampermonkey）
-2. 将 xxxx.js 代码拷贝到油猴（新建脚本）
+2. 将 xxxx.js 代码拷贝到油猴（新建脚本）/  点击 Quick Install
 
 # 1. ChromeTitleRename 谷歌浏览器标签页重命名    
 [Quick Install](https://greasyfork.org/zh-CN/scripts/494642-rename-title)
